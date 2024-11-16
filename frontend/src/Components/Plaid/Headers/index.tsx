@@ -4,7 +4,7 @@ import Button from "plaid-threads/Button";
 import InlineLink from "plaid-threads/InlineLink";
 
 import Link from "../Link";
-import Context from "../../Context";
+import Context from "../../../Context";
 
 import styles from "./index.module.scss";
 
